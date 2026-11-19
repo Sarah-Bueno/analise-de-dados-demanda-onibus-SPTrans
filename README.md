@@ -1,4 +1,4 @@
-# Análise da Demanda de Ônibus em São Paulo (2019–2026) 🚌
+# Análise da Demanda de Ônibus em São Paulo (2019–2026) 
 
 ## Sobre o projeto
 
